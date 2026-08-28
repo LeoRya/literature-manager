@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+paper_library.db
+paper_library.db-wal
+paper_library.db-shm
+*.csv
+*.bib
+*.ris
+
